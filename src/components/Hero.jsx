@@ -85,7 +85,7 @@ export default function Hero() {
               Hello, I'm
             </h1>
             <h1 className="text-[10vw] lg:text-[7vw] font-black leading-none uppercase tracking-tighter text-stroke text-zinc-950">
-          Aryansih
+          Aryansinh
         </h1>
           </div>
 
@@ -157,7 +157,7 @@ export default function Hero() {
             <img
               ref={imageRef}
               src="/images/photo2.jpg"
-              alt="Aryanish Portrait"
+              alt="Aryansinh Portrait"
               className="absolute w-full h-[120%] object-cover top-[-10%]"
             />
           </div>

@@ -127,7 +127,7 @@ export default function Navbar() {
             onClick={() => handleScrollTo("home")}
             className="text-2xl font-black tracking-wider cursor-pointer select-none text-white hover:text-yellow-400 transition-colors duration-300 group"
           >
-            Aryansih<span className="text-yellow-400 group-hover:drop-shadow-[0_0_8px_rgba(250,204,21,0.6)]">.in</span>
+            Aryansinh<span className="text-yellow-400 group-hover:drop-shadow-[0_0_8px_rgba(250,204,21,0.6)]">.in</span>
           </div>
 
           {/* Desktop Menu */}

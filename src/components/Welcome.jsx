@@ -10,7 +10,7 @@ const DEFAULT_TESTIMONIALS = [
     id: 1,
     name: "Alexander Wright",
     role: "Creative Director",
-    message: "Aryanish's work is absolutely top-tier. The animations are fluid, the code is spotless, and the performance is incredible.",
+    message: "Aryansinh's work is absolutely top-tier. The animations are fluid, the code is spotless, and the performance is incredible.",
     avatar: "https://api.dicebear.com/7.x/adventurer/svg?seed=Alex",
     verified: true,
   },

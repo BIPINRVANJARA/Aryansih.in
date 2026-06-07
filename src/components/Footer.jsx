@@ -9,7 +9,7 @@ export default function Footer() {
     }
   };
 
-  const marqueeText = "CREATIVE DEVELOPER * ARYANSIH.IN * AWWWARDS INSPIRED * DESIGNER * FREELANCE * FRONTEND *";
+  const marqueeText = "CREATIVE DEVELOPER * ARYANSINH.IN * AWWWARDS INSPIRED * DESIGNER * FREELANCE * FRONTEND *";
 
   return (
     <footer
@@ -57,7 +57,7 @@ export default function Footer() {
           <div className="w-40 h-40 md:w-44 md:h-44 overflow-hidden rounded-full border-4 border-zinc-950 shadow-2xl relative transition-transform duration-500 hover:scale-110">
             <img
               src="/images/photo2.jpg"
-              alt="Aryanish Portrait"
+              alt="Aryansinh Portrait"
               className="w-full h-full object-cover object-top scale-110"
             />
           </div>
@@ -91,7 +91,7 @@ export default function Footer() {
         {/* LUXURY BRANDING */}
         <div className="mb-10">
           <h4 className="text-4xl md:text-5xl font-black tracking-wider text-zinc-950 flex items-center justify-center select-none group">
-            Aryansih<span className="text-white drop-shadow-[0_2px_8px_rgba(255,255,255,0.4)] transition-all group-hover:drop-shadow-[0_0_15px_rgba(255,255,255,0.8)]">.in</span>
+            Aryansinh<span className="text-white drop-shadow-[0_2px_8px_rgba(255,255,255,0.4)] transition-all group-hover:drop-shadow-[0_0_15px_rgba(255,255,255,0.8)]">.in</span>
           </h4>
           <p className="text-zinc-950/70 text-xs font-semibold uppercase tracking-[0.25em] mt-2">
             Immersive Digital Solutions & Visual Design
@@ -118,7 +118,7 @@ export default function Footer() {
         {/* COPYRIGHT SECTION */}
         <div className="w-full flex flex-col md:flex-row justify-between items-center gap-4 text-xs font-bold text-zinc-950/50 uppercase tracking-widest">
           <p className="flex items-center gap-1.5">
-            © {new Date().getFullYear()} Aryansih.in. Developed by <a href="https://instagram.com/kyvraone" target="_blank" rel="noopener noreferrer" className="text-zinc-950 hover:underline">@Kyvraone</a>
+            © {new Date().getFullYear()} Aryansinh.in. Developed by <a href="https://instagram.com/kyvraone" target="_blank" rel="noopener noreferrer" className="text-zinc-950 hover:underline">@Kyvraone</a>
           </p>
           <div className="flex gap-6">
             <a href="#privacy" className="hover:text-zinc-950 transition-colors">Privacy Policy</a>
